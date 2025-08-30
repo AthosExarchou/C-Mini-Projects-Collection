@@ -1,0 +1,24 @@
+# Ignore compiled binary files
+*.exe
+
+# Ignore object files
+*.o
+
+# Ignore dependency files
+*.d
+
+# Ignore core dumps
+core
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Ignore backup files
+*.bak
+*.tmp
+
+# Ignore the build directory
+build/
